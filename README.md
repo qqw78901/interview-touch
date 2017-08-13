@@ -1,4 +1,4 @@
-#基于Amaze UI Touch的interview-touch版
+# 基于Amaze UI Touch的interview-touch版
 
 基于[Amaze UI Touch](https://github.com/amazeui/amazeui-touch) 快速上手套件，基于 React、Amaze UI Touch、React Router 及 Webpack 开发 SPA。
 
