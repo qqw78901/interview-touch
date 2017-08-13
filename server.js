@@ -26,7 +26,7 @@ bs.init({
       proxyMiddleware( {
         target: "/", // target host
         changeOrigin: true,               // needed for virtual hosted sites
-        pathRewrite: {'^../../' : ''},
+        pathRewrite: {'^../' : ''},
         router: {
           // when request.headers.host == 'dev.localhost:3000',
           // override target 'http://www.example.org' to 'http://localhost:8000'
