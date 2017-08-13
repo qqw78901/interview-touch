@@ -1,0 +1,38 @@
+h3.item-title{
+  flex: 1;
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #555555;
+}
+.index-group{
+  .group-header{
+    color:#92202a;
+    animation: flash 1s infinite;
+    -webkit-animation: flash 1s infinite
+  }
+}
+
+@-webkit-keyframes flash {
+  0%,
+  100%,
+  50% {
+    opacity: 1;
+  }
+  25%,
+  75% {
+    opacity: .7;
+  }
+}
+
+@keyframes flash {
+  0%,
+  100%,
+  50% {
+    opacity: 1;
+  }
+  25%,
+  75% {
+    opacity: .7;
+  }
+}
