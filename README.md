@@ -1,8 +1,6 @@
-# Amaze UI Touch Starter Kit
+#基于Amaze UI Touch的interview-touch版
 
-[Amaze UI Touch](https://github.com/amazeui/amazeui-touch) 快速上手套件，基于 React、Amaze UI Touch、React Router 及 Webpack 开发 SPA。
-
-**套件中目前只包含客户部代码，亦未包含 Flux、Redux 等框架**。
+基于[Amaze UI Touch](https://github.com/amazeui/amazeui-touch) 快速上手套件，基于 React、Amaze UI Touch、React Router 及 Webpack 开发 SPA。
 
 ## 目录结构
 
@@ -22,10 +20,6 @@
 
 ## 使用说明
 
-### 环境配置
-
-- 安装 [Node.js](https://nodejs.org/en/download/)
-- 模块编译环境配置：[点击查看](https://github.com/nodejs/node-gyp#installation)
 
 ### 安装开发依赖
 
